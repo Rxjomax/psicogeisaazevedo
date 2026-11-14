@@ -1,0 +1,6 @@
+{
+  "name": "Geisa Cléa · Psicologia Clínica",
+  "description": "Um espaço de escuta ética, calma e sem pressa para você elaborar o que sente. Atendimento psicológico clínico online e presencial por Geisa Cléa (@geisaclea.psi).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
